@@ -4,7 +4,7 @@
 
 This project analyzes procurement operations to identify process bottlenecks, supplier performance issues, approval delays, and risk areas affecting purchase order efficiency.
 
-The goal of this project is to use data analysis and business process improvement techniques to improve procurement visibility and support better decision-making.
+The goal of this project is to apply data analysis and business process improvement techniques to improve procurement visibility and support better management decision-making.
 
 ---
 
@@ -19,10 +19,24 @@ These inefficiencies increased procurement lead time and affected overall operat
 ## Objectives
 
 - Analyze procurement process performance.
-- Identify bottlenecks causing delays.
+- Identify bottlenecks causing procurement delays.
 - Evaluate supplier delivery performance.
 - Monitor high-risk purchase orders.
 - Recommend process improvement strategies.
+
+---
+
+## Project Methodology
+
+1. Studied the existing procurement workflow (As-Is Process).
+
+2. Analyzed procurement KPIs including lead time, approval cycle time, supplier delays, and risk levels.
+
+3. Identified operational bottlenecks using data analysis.
+
+4. Designed improved procurement workflow recommendations (To-Be Process).
+
+5. Developed an interactive Power BI dashboard for KPI tracking and management decision-making.
 
 ---
 
@@ -34,6 +48,19 @@ These inefficiencies increased procurement lead time and affected overall operat
 - Delay Percentage
 - Average Approval Time
 - High Risk Orders
+
+---
+
+## Dashboard Analysis
+
+The Power BI dashboard provides insights into:
+
+- Procurement lead time by department
+- Supplier delivery delay analysis
+- Approval process bottlenecks
+- Procurement risk distribution
+- Purchase order status analysis
+- Material category spend analysis
 
 ---
 
@@ -82,3 +109,9 @@ These inefficiencies increased procurement lead time and affected overall operat
 - Dashboard: Power BI Dashboard (.pbix)
 - Documentation: As-Is and To-Be Process Analysis
 - Report: Dashboard PDF Report
+
+---
+
+## Outcome
+
+This project demonstrates how procurement data analytics and process improvement techniques can be used to identify inefficiencies, improve visibility, and support data-driven business decisions.
